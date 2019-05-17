@@ -4,6 +4,7 @@
   "description": "A pure Javascript ZooKeeper client for Node.js.",
   "author": "Alex Guan <alex.guan@gmail.com>",
   "main": "index.js",
+  "types": "index.d.ts",
   "keywords": [
     "zookeeper",
     "client",
